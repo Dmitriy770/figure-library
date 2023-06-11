@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLibrary", "FigureLibr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D217C987-2D4F-465A-9D69-D0F89FF94E73}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{22162EEF-3988-4975-B2D1-AA636D7514B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLibrary.UnitTests", "test\FigureLibrary.UnitTests\FigureLibrary.UnitTests.csproj", "{490F4B0A-DE3F-4DDF-BE81-96B1D89336EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,8 +18,13 @@ Global
 		{144B9B75-B166-4643-A977-74B018E38E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144B9B75-B166-4643-A977-74B018E38E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144B9B75-B166-4643-A977-74B018E38E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490F4B0A-DE3F-4DDF-BE81-96B1D89336EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490F4B0A-DE3F-4DDF-BE81-96B1D89336EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490F4B0A-DE3F-4DDF-BE81-96B1D89336EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490F4B0A-DE3F-4DDF-BE81-96B1D89336EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{144B9B75-B166-4643-A977-74B018E38E7C} = {D217C987-2D4F-465A-9D69-D0F89FF94E73}
+		{490F4B0A-DE3F-4DDF-BE81-96B1D89336EB} = {22162EEF-3988-4975-B2D1-AA636D7514B3}
 	EndGlobalSection
 EndGlobal
