@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureLibrary", "FigureLibrary\FigureLibrary.csproj", "{144B9B75-B166-4643-A977-74B018E38E7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D217C987-2D4F-465A-9D69-D0F89FF94E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144B9B75-B166-4643-A977-74B018E38E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144B9B75-B166-4643-A977-74B018E38E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144B9B75-B166-4643-A977-74B018E38E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144B9B75-B166-4643-A977-74B018E38E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{144B9B75-B166-4643-A977-74B018E38E7C} = {D217C987-2D4F-465A-9D69-D0F89FF94E73}
+	EndGlobalSection
+EndGlobal
